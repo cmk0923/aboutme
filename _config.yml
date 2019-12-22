@@ -1,21 +1,18 @@
 title: Minkee Choi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p>Frontend Technoloies</p>
-  <p>React, React Native, Javascript</p>
-  <p>C#</p>
-  <br />
-  <p>Backend Technoloies</p>
-  <p>MongoDB</p>
-  <p>AWS lambda</p>
-  <p>Firebase</p>
-  <br />
-  <p>Languages</p>
-  <p>Korean</p>
-  <p>English</p>
-  <p>Mandarin</p>
-  <br />
-  <p>Careers</p>
+  <h3>Frontend Technoloies</h3>
+  <div>React, React Native, Javascript</div>
+  <div>C#</div>
+  <h3>Backend Technoloies</h3>
+  <div>MongoDB</div>
+  <div>AWS lambda</div>
+  <div>Firebase</div>
+  <h3>Languages</h3>
+  <div>Korean</div>
+  <div>English</div>
+  <div>Mandarin</div>
+  <h3>Careers</h3>
   <a href="https://www.linkedin.com/in/minkee-choi-520581191/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
