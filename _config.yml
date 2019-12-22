@@ -4,14 +4,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   <h3>Frontend Technoloies</h3>
   <div>React, React Native, Javascript</div>
   <div>C#</div>
+  <br />
   <h3>Backend Technoloies</h3>
   <div>MongoDB</div>
   <div>AWS lambda</div>
   <div>Firebase</div>
+  <br />
   <h3>Languages</h3>
   <div>Korean</div>
   <div>English</div>
   <div>Mandarin</div>
+  <br />
   <h3>Careers</h3>
   <a href="https://www.linkedin.com/in/minkee-choi-520581191/">View My LinkedIn Profile</a> 
   
