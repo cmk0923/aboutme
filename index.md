@@ -8,7 +8,7 @@
 
 React.js & AWS lambda & Mongodb atlas
 
-<img src="images/lowpbr.PNG?raw=true"/>
+<img src="images/lowpbr.gif?raw=true"/>
 
 ---
 
