@@ -44,9 +44,7 @@ It's personal use only because the data can not open to public according to real
 
 React-native & AWS lambda & Mongodb atlas
 
-<img src="images/openhouse2.PNG?raw=true"/>
-<img src="images/openhouse3.PNG?raw=true"/>
-<img src="images/openhouse4.PNG?raw=true"/>
+<img src="images/openhouse.gif?raw=true"/>
 
 ---
 
