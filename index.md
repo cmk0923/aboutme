@@ -1,17 +1,18 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### React.js webapps
+## React.js webapps
 
-1. [Korea Stock Webapp](http://lowpbr.surge.sh/)
-   React.js & AWS lambda & Mongodb atlas
+### [Korea Stock Webapp](http://lowpbr.surge.sh/)
+
+React.js & AWS lambda & Mongodb atlas
 
 <img src="images/lowpbr.PNG?raw=true"/>
 
 ---
 
-2. Nursing Home Marketing Platform
+### Nursing Home Marketing Platform
 
 User can find nursing home and nursing home owner can advertise their nursing home to the users.
 (It was one of my past services.)
@@ -22,7 +23,7 @@ Keystone.js & Node.js & Mongodb
 
 ---
 
-3. Financial Product Comparison Website
+### Financial Product Comparison Website
 
 This webapp is made for comparing Card, Savings, Loan, and Currency Products.
 (It was another my past service.)
@@ -33,9 +34,9 @@ Keystone.js & Node.js & Mongodb
 
 ---
 
-### React-Native apps
+## React-Native apps
 
-4. Openhouse
+### Openhouse
 
 User can find openhouses nearby user's location.
 
@@ -49,9 +50,9 @@ React-native & AWS lambda & Mongodb atlas
 
 ---
 
-### C
+## C
 
-Option Trading System
+### Option Trading System
 
 C#
 
