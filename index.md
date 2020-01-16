@@ -4,15 +4,17 @@
 
 ### React.js webapps
 
-[Korea Stock Webapp](http://lowpbr.surge.sh/)
-React.js & AWS lambda & Mongodb atlas
+1. [Korea Stock Webapp](http://lowpbr.surge.sh/)
+   React.js & AWS lambda & Mongodb atlas
 
 <img src="images/lowpbr.PNG?raw=true"/>
 
 ---
 
-Nursing Home Marketing Platform
-It was one of our startup services.
+2. Nursing Home Marketing Platform
+
+User can find nursing home and nursing home owner can advertise their nursing home to the users.
+(It was one of my past services.)
 
 Keystone.js & Node.js & Mongodb
 
@@ -20,9 +22,12 @@ Keystone.js & Node.js & Mongodb
 
 ---
 
-Financial Product Comparison Website
-It was another our startup services.
-Comparing Card, Savings, Loan, Currency Products.
+3. Financial Product Comparison Website
+
+This webapp is made for comparing Card, Savings, Loan, and Currency Products.
+(It was another my past service.)
+
+Keystone.js & Node.js & Mongodb
 
 <img src="images/atmarket3.PNG?raw=true"/>
 
@@ -30,8 +35,10 @@ Comparing Card, Savings, Loan, Currency Products.
 
 ### React-Native apps
 
-Openhouse
+4. Openhouse
+
 User can find openhouses nearby user's location.
+
 It's personal use only because the data can not open to public according to realtor.ca's policy.
 
 React-native & AWS lambda & Mongodb atlas
