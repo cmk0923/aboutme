@@ -1,14 +1,14 @@
 title: Minkee Choi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
   <h3>Frontend Technoloies</h3>
   <div>React, React Native, Javascript</div>
   <div>C#</div>
   <br />
   <h3>Backend Technoloies</h3>
-  <div>MongoDB</div>
   <div>AWS lambda</div>
-  <div>Firebase</div>
+  <div>MongoDB</div>
   <br />
   <h3>Languages</h3>
   <div>Korean</div>
@@ -16,7 +16,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <div>Mandarin</div>
   <br />
   <h3>Careers</h3>
-  <a href="https://www.linkedin.com/in/minkee-choi-520581191/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/minkee-choi-520581191/">View My LinkedIn Profile</a>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -2,34 +2,55 @@
 
 ---
 
-### Category Name 1 
+### React.js webapps
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Korea Stock Webapp](http://lowpbr.surge.sh/)
+React.js & AWS lambda & Mongodb atlas
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/lowpbr.PNG?raw=true"/>
 
 ---
 
-### Category Name 2
+Nursing Home Marketing Platform
+It was one of our startup services.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Keystone.js & Node.js & Mongodb
+
+<img src="images/silvermoa4.PNG?raw=true"/>
+
+---
+
+Financial Product Comparison Website
+It was another our startup services.
+Comparing Card, Savings, Loan, Currency Products.
+
+<img src="images/atmarket3.PNG?raw=true"/>
 
 ---
 
+### React-Native apps
 
+Openhouse
+User can find openhouses nearby user's location.
+It's personal use only because the data can not open to public according to realtor.ca's policy.
 
+React-native & AWS lambda & Mongodb atlas
+
+<img src="images/openhouse2.PNG?raw=true"/>
+<img src="images/openhouse3.PNG?raw=true"/>
+<img src="images/openhouse4.PNG?raw=true"/>
 
 ---
+
+### C
+
+Option Trading System
+
+C#
+
+<img src="images/tradingsystem.PNG?raw=true"/>
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
