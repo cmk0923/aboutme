@@ -38,9 +38,9 @@ Keystone.js & Node.js & Mongodb
 
 ### Openhouse
 
-User can find openhouses nearby user's location.
+Users can find openhouses nearby user's location.
 
-It's personal use only because the data can not open to public according to realtor.ca's policy.
+It's just a demo app and private use only according to realtor.ca's terms of use.
 
 React-native & AWS lambda & Mongodb atlas
 
