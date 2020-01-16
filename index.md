@@ -14,7 +14,7 @@ React.js & AWS lambda & Mongodb atlas
 
 ### Nursing Home Marketing Platform
 
-User can find nursing home and nursing home owner can advertise their nursing home to the users.
+User can find nursing homes and nursing home owner can advertise their nursing home to the users.
 (It was one of my past services.)
 
 Keystone.js & Node.js & Mongodb
@@ -48,7 +48,17 @@ React-native & AWS lambda & Mongodb atlas
 
 ---
 
-## C
+### StockSNS
+
+Users can share their investment idea and can watch favorite youtube video which is only related to investment.
+
+React-native & AWS lambda & Mongodb atlas
+
+<img src="images/stockSNS.gif?raw=true"/>
+
+---
+
+## C<i>#</i>
 
 ### Option Trading System
 
