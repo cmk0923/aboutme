@@ -6,9 +6,21 @@
 
 ### [Korea Stock Webapp](http://lowpbr.surge.sh/)
 
-React.js & AWS lambda & Mongodb atlas
+Quantitative analysis platform for Korea stock market
+
+React.js & AWS lambda & Mongodb atlas & C#(data parsing bot)
 
 <img src="images/lowpbr.gif?raw=true"/>
+
+---
+
+### Stock Replay
+
+User can review their trading. This app is made for the intraday traders.
+
+React.js & AWS lambda & Mongodb atlas
+
+<img src="images/stockreplay.gif?raw=true"/>
 
 ---
 
@@ -61,6 +73,8 @@ React-native & AWS lambda & Mongodb atlas
 ## C<i>#</i>
 
 ### Option Trading System
+
+Option algorithmic trading program
 
 C#
 
