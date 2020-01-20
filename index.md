@@ -27,7 +27,6 @@ React.js & AWS lambda & Mongodb atlas
 ### Nursing Home Marketing Platform
 
 User can find nursing homes and nursing home owner can advertise their nursing home to the users.
-(It was one of my past services.)
 
 Keystone.js & Node.js & Mongodb
 
@@ -38,7 +37,6 @@ Keystone.js & Node.js & Mongodb
 ### Financial Product Comparison Website
 
 This webapp is made for comparing Card, Savings, Loan, and Currency Products.
-(It was another my past service.)
 
 Keystone.js & Node.js & Mongodb
 
